@@ -1,0 +1,52 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "PS5",
+            "descricao": "O console de próxima geração da Sony, com gráficos em 4K a 120Hz, SSD ultrarrápido para carregamentos quase instantâneos e tecnologia de feedback háptico imersivo. Experimente jogos exclusivos com desempenho revolucionário.",
+            "preco": 4999.99,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/ps5.png"
+        },
+        {
+            "id": 2,
+            "nome": "Xbox Series X",
+            "descricao": "O console mais potente da Microsoft, com 12 TFLOPS de poder gráfico, Quick Resume para múltiplos jogos e compatibilidade com quatro gerações de jogos. Perfeito para quem busca desempenho máximo e o catálogo do Xbox Game Pass.",
+            "preco": 4000.90,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/xbox.png"
+        },
+        {
+            "id": 3,
+            "nome": "Controle Dualshock 5",
+            "descricao": "O controle inovador da PS5 com Gatilhos adaptáveis com resistência dinâmica, Feedback háptico para imersão precisa, Alto-falante integrado e microfone embutido, Design ergonômico premium",
+            "preco": 500.50,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/dualshock5.png"
+        },
+        {
+            "id": 4,
+            "nome": "Controle Dualshock 4",
+            "descricao": "Relógio inteligente com monitoramento de saúde e GPS integrado.",
+            "preco": 400.00,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/dualshock.png"
+        },
+        {
+            "id": 5,
+            "nome": "PS4",
+            "descricao": "O PS4 revolucionou o mundo dos games com sua incrível biblioteca de jogos exclusivos e desempenho Full HD. Disponível nas versões Slim (compacta e econômica) e Pro (com suporte a 4K/HDR)",
+            "preco": 2000.90,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/ps4.png"
+        },
+        {
+            "id": 6,
+            "nome": "Controle Xbox Series",
+            "descricao": "O controle refinado da nova geração Xbox com Gatilhos e botões texturizados, Design ergonômico aprimorado, Compatibilidade com dispositivos móveis/PC, D-pad híbrido de precisão",
+            "preco": 500.00,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/xbox.png"
+        }
+    ]
+}
